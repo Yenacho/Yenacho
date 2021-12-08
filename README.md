@@ -1,15 +1,23 @@
 <h1 align="center">Hi 👋, I'm Yena Cho</h1>
-<h3 align="center">I am a final year student at the UvA</h3>
+<h3 align="center"> Self-drive, motivated and ambitious final year student currently pursuing Bachelor's Degree in Communication Science. Passionate about marketing, data analysis📈, machine learning, future technlogies💡 and sustainable business strategies 🌿. I love taking photographs 🏞 🌄 and travelling around the world  </h3>
 
-- 🌱 I’m currently learning **Artificial Intelligence and Machine Learning Course at UvA**
+Paulo Coelho: 
 
-- 📝 I regularly write articles on [https://blog.naver.com/yenacap1109](https://blog.naver.com/yenacap1109)
+> “One day you will wake up and there won't be any more time to do the things you've always wanted. Do it now.”
+
+
+- 🌱 I’m currently taking **Artificial Intelligence and Machine Learning minor at UvA**
+
+- 🧚‍♀️ **Github is to practice all the materials that I learnt in my minor course and also to stay tuned for the programming world** 
+
+- 📝 I write articles on [https://blog.naver.com/yenacap1109](https://blog.naver.com/yenacap1109)
 
 - 💬 Ask me about **anything you may wonder!**
 
 - 📫 How to reach me **yenacho09@gmail.com**
 
 - 📄 Know about my experiences [www.linkedin.com/in/yena-cho09](www.linkedin.com/in/yena-cho09)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
