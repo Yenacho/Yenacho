@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yena Cho</h1>
 
-Self-drive, motivated and ambitious final year student currently pursuing Bachelor's Degree in Communication Science. Passionate about marketing, data analysis📈, machine learning, future technlogies💡 and sustainable business strategies 🌿. I love taking photographs 🏞 🌄 and travelling around the world  </h3>
+<h3 align="center"> Self-drive, motivated and ambitious final year student currently pursuing Bachelor's Degree in Communication Science. Passionate about marketing, data analysis📈, machine learning, future technlogies💡 and sustainable business strategies 🌿. I love taking photographs 🏞 🌄 and travelling around the world  </h3>
 
 Paulo Coelho: 
 
