@@ -9,7 +9,9 @@ Paulo Coelho:
 
 - 🌱 I’m currently taking **Artificial Intelligence and Machine Learning minor at UvA**
 
-- 🧚‍♀️ **Github is to practice all the materials that I learnt in my minor course and also to stay tuned for the programming world** 
+- 😺 **Github is to practice all the materials that I learnt in my minor course and also to stay tuned for the programming world** 
+
+- 🧚‍♀️ I love taking photographs 🏞 🌄 and travelling around the world
 
 - 📝 I write articles on [https://blog.naver.com/yenacap1109](https://blog.naver.com/yenacap1109)
 
